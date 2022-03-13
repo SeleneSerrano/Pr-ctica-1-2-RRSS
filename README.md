@@ -1,1 +1,1 @@
-# t1-2-rrss
+# practica-1-tresca
